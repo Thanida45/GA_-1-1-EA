@@ -22,8 +22,14 @@
   - TryGA.java (Main Class) 
 
 
+## Report 
+  - 02_Introduction.pdf
+  - 04_Methodology.pdf
+  Note: Some parts of MSc report.
+  
+---
 
-MSc Project: Software Engineering Project Planning Using Genetic Algorithms
+### MSc Project: Software Engineering Project Planning Using Genetic Algorithms
 
 There are two programs which are the Genetic Algorithm and (1+1) Evolutionary Algorithm. 
 
