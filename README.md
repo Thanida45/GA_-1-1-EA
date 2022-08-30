@@ -22,10 +22,10 @@
   - TryGA.java (Main Class) 
 
 
-## Report 
+## Report (Note: Some parts of MSc report.)
   - 02_Introduction.pdf
   - 04_Methodology.pdf
-  Note: Some parts of MSc report.
+  
   
 ---
 
@@ -50,7 +50,7 @@ The application (“R”) is used for the Wilcoxon rank sum test.
 
 The R calculates the p-value of the different data between two algorithms; the GA and the (1+1) EA. 
 
-
+---
 
 #### Thank You.
 #### Thanida Prasert
