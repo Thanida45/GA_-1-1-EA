@@ -47,4 +47,4 @@ The R calculates the p-value of the different data between two algorithms; the G
 
 
 #### Thank You.
-####Thanida Prasert
+#### Thanida Prasert
